@@ -58,7 +58,7 @@ well::
     // Passed arguments
     $passedArgs = $this->request->getParam('pass');
 
-Will all provide you access to the passed arguments. There
+Will provide you access to all the passed arguments. There
 are several important/useful parameters that CakePHP uses internally, these
 are also all found in the routing parameters:
 
